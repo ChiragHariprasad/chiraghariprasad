@@ -80,20 +80,6 @@ I'm Chirag Hariprasad, a technology craftsman with a deep passion for building i
 <p align="center">
   <a href="https://www.linkedin.com/in/chirag-hariprasad/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="50" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/chiraghariprasad" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40" width="50" alt="Twitter/X" />
-  </a>
-</p>
-
----
-
-## ☕ Support My Journey
-<p align="center">
-  <a href="https://coff.ee/chiragh">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="240" alt="Buy Me a Coffee" />
-  </a>
-</p>
 
 ---
 
