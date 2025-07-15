@@ -1,23 +1,161 @@
-<h1 align="center">Hi 👋, I'm Chirag Hariprasad</h1>
-<h3 align="center">Building Intelligent Systems That Evolve</h3>
+# <div align="center">🚀 Chirag Hariprasad 🚀</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chiraghariprasad&label=Profile%20views&color=0e75b6&style=flat" alt="chiraghariprasad" /> </p>
+<div align="center">
+  <h2>🌟 Architect of Digital Innovation | Builder of Intelligent Systems That Evolve 🌟</h2>
+  <h3>💫 Transforming Ideas into Reality Through Code 💫</h3>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiraghariprasad" alt="chiraghariprasad" /></a> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Engineer;Open+Source+Contributor;Innovation+Enthusiast" alt="Typing SVG" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chirag-hariprasad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chirag-hariprasad/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 🎯 **Mission Statement**
+*Crafting elegant solutions to complex problems, one line of code at a time. Passionate about creating intelligent systems that not only solve today's challenges but evolve to meet tomorrow's possibilities.*
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://coff.ee/chiragh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://coff.ee/chiragh" /></a></p><br><br>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiraghariprasad&show_icons=true&locale=en&layout=compact" alt="chiraghariprasad" /></p>
+## 🔥 **Featured Projects Portfolio**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chiraghariprasad&show_icons=true&locale=en" alt="chiraghariprasad" /></p>
+### 🏠 **Gesture-Home** - *Accessibility Innovation*
+> **Revolutionary home automation system designed for verbally disabled individuals**
+> - **Tech Stack:** Python, OpenCV, Machine Learning
+> - **Impact:** Empowering accessibility through gesture recognition
+> - **Status:** ⭐ 1 Star | 🔧 Active Development
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiraghariprasad&" alt="chiraghariprasad" /></p>
+### 🗺️ **Pathfinding-Visualizer** - *Educational AI Tool*
+> **Interactive PyGame-based visualization demonstrating multiple pathfinding algorithms**
+> - **Tech Stack:** Python, PyGame, Algorithm Visualization
+> - **Features:** Real-time pathfinding comparison, customizable grids
+> - **Purpose:** Making complex algorithms accessible and understandable
+
+### 🏥 **Hospital-Management-System** - *Healthcare Solutions*
+> **Comprehensive patient records, doctor assignments, and queue management system**
+> - **Features:** Patient tracking, scheduling optimization, workflow management
+> - **Impact:** Streamlining healthcare operations
+
+### 🧠 **TimeComplexityPredictor** - *AI-Powered Code Analysis*
+> **Random Forest Model that predicts time complexity of code snippets**
+> - **Tech Stack:** Python, Machine Learning, Random Forest
+> - **Innovation:** Automated code complexity analysis
+
+### 🎮 **BruteForce-vs-Random** - *AI Game Strategy*
+> **Minimax-powered Smart AI vs Random AI in 50 Tic-Tac-Toe battles**
+> - **Tech Stack:** Python, Game Theory, AI Algorithms
+> - **Research:** Comparative analysis of AI strategies
+
+---
+
+## 🛠️ **Technical Arsenal**
+
+### 💻 **Programming Languages**
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+</div>
+
+### 🚀 **Frameworks & Libraries**
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+</div>
+
+### 🗄️ **Databases & Cloud**
+<div align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+</div>
+
+### 🔧 **Development Tools**
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+</div>
+
+---
+
+## 📊 **GitHub Analytics & Achievements**
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=chiraghariprasad&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chiraghariprasad&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
+</div>
+
+### 📈 **Coding Statistics**
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chiraghariprasad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiraghariprasad&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+### 🔥 **Contribution Streak**
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chiraghariprasad&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak"/>
+</div>
+
+### 📊 **Detailed Activity Graph**
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chiraghariprasad&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF"/>
+</div>
+
+---
+
+## 🎓 **Academic Excellence**
+**RV College of Engineering** - *Contributing to educational resources and collaborative learning*
+- Active contributor to 2nd-year resources repository
+- Collaborative learning advocate
+- Academic resource developer
+
+---
+
+## 🌐 **Connect & Collaborate**
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/chirag-hariprasad/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/ChiragHariprasad" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://coff.ee/chiragh" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+  </a>
+</div>
+
+---
+
+## 💡 **Philosophy**
+*"Code is not just about solving problems; it's about crafting solutions that inspire, innovate, and impact lives. Every algorithm is a step toward a better tomorrow."*
+
+---
+
+## 🚀 **Current Focus**
+- 🧠 **AI & Machine Learning:** Developing intelligent systems that learn and adapt
+- 🏠 **Accessibility Technology:** Creating inclusive solutions for diverse needs
+- 🎮 **Interactive Visualizations:** Making complex concepts accessible through engaging interfaces
+- 🌱 **Open Source:** Contributing to the global developer community
+
+---
+
+<div align="center">
+  <h3>🌟 "Building the future, one commit at a time" 🌟</h3>
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="center">
+  <sub>⚡ Powered by passion, fueled by coffee, driven by innovation ⚡</sub>
+</div>
