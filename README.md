@@ -1,88 +1,104 @@
-<h1 align="center">Hi 👋, I'm Chirag Hariprasad</h1>
-<h3 align="center">Crafting Intelligent Systems That Evolve</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chiraghariprasad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+# Chirag Hariprasad
 
----
+**AI/ML Engineer · Full-Stack Developer · Patent Inventor**
 
-## 🚀 About Me
-**Architecting Innovation | AI Engineer | Full-Stack Developer | Hardware Hacker**
+[![Profile Views](https://komarev.com/ghpvc/?username=chiraghariprasad&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/chiraghariprasad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirag-hariprasad/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:chi2019rag@gmail.com)
 
-I'm Chirag Hariprasad, a technology craftsman with a deep passion for building intelligent, scalable, and futuristic systems. Whether it’s crafting algorithms, building real-time web systems, or blending hardware with code—I create things that adapt, evolve, and solve real-world challenges.
-
-- 🔭 **Currently Exploring**: Reinforcement learning, real-time systems, IoT + AI
-- 🌱 **Learning**: Cloud-native ML pipelines, quantum principles, advanced simulations
-- ⚒️ **Projects**: Integrating AI into tactical games, traffic control systems, and real-world map simulations
-- 💬 **Ask Me About**: ML, computer vision, IoT, Pygame AI, or Arduino tinkering
-- 📫 **Reach Me**: [LinkedIn](https://www.linkedin.com/in/chirag-hariprasad/) | [Email](mailto:chirag@example.com)
-- ⚡ **Fun Fact**: I see bugs as cryptic riddles—every fix is a victory.
+</div>
 
 ---
 
-## 🛠️ Languages & Tools
+## About
 
-### Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
-</p>
+I'm a 6th-semester AI/ML Engineering student at **RV College of Engineering, Bengaluru**, simultaneously interning on the **Strategy Team at IIFL Samasta Finance Ltd.**, where I've solo-built multiple production systems from scratch.
 
-### Frameworks & Libraries
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" />
-</p>
+I gravitate toward problems that sit at the intersection of ML, systems design, and real-world constraints — where the gap between prototype and production actually matters.
 
-### Tools & Platforms
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
-</p>
-
-### Hardware & Creative Tools
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" />
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" />
-</p>
+- 🏭 **In Production**: KYC fraud detection · meeting intelligence pipeline · lifestyle index scoring
+- 🔬 **Research**: Aspect-based sentiment analysis (Mamba2 vs. BERT/RoBERTa) · pathfinding algorithm benchmarking
+- 📜 **IP**: 1 published patent (V.E.C.T.O.R) · 3 filed in 2025 (O.R.I.O.N, G.E.N.E.S.I.S, PresntAI)
+- 🤖 **Personal**: Building Jarvis — a self-evolving knowledge system (RAG + knowledge graphs + LoRA)
 
 ---
 
-## 🏆 GitHub Achievements
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=chiraghariprasad&theme=radical&no-frame=false&margin-w=4" alt="GitHub Trophies" />
-  </a>
-</p>
+## Production Work @ IIFL Samasta
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chiraghariprasad&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=chiraghariprasad&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chiraghariprasad&theme=radical" alt="GitHub Streak" />
-</p>
+| System | Stack | What it does |
+|---|---|---|
+| **VerifAI** | UMAP · HDBSCAN · XGBoost · Isolation Forest · Redis Streams | Real-time KYC document tamper detection |
+| **MeetingsAI** | FastAPI · Whisper · Speaker Diarization · cosine similarity | On-premise meeting transcription, speaker recognition, PDF reports |
+| **Lifestyle Index** | FastAPI · SQLite · Gemini AI · Zoho SMTP | Automated scoring platform with daily email digest |
 
 ---
 
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/chirag-hariprasad/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="50" alt="LinkedIn" />
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
+**ML / Data**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+**Backend / Infra**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+**Frontend / Tools**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
 ---
 
-> *"The universe is a pretty big place. If it's just us, seems like an awful waste of space."*  
-> Let's fill it with innovation, curiosity, and code.
+## Research & Patents
 
+- 📄 **V.E.C.T.O.R** — Published patent on real-time fraud detection using unsupervised clustering + streaming architecture
+- 📝 **O.R.I.O.N** — Filed 2025
+- 📝 **G.E.N.E.S.I.S** — Filed 2025
+- 📝 **PresntAI** — Filed 2025
+- 🧪 **NLP Research** — Comparing SSM (Mamba2) vs. transformer architectures (BERT, RoBERTa) for aspect-based sentiment analysis on SemEval 2014 benchmarks + novel RVCE student feedback dataset *(targeting journal submission)*
+- 📊 **Pathfinding Benchmark** — Comprehensive simulation of 35 algorithms across 6 map types; publication-quality paper produced from results
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=chiraghariprasad&show_icons=true&locale=en&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chiraghariprasad&show_icons=true&locale=en&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chiraghariprasad&theme=radical)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=chiraghariprasad&theme=radical&no-frame=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+
+*Building systems that hold up under scrutiny — in production, in research, and on paper.*
+
+</div>
