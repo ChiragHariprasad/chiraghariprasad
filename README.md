@@ -87,12 +87,12 @@ I gravitate toward problems that sit at the intersection of ML, systems design, 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=chiraghariprasad&show_icons=true&locale=en&layout=compact&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chiraghariprasad&show_icons=true&locale=en&theme=radical)
+![Streak](https://streak-stats.demolab.com/?user=chiraghariprasad&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chiraghariprasad&theme=radical)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=chiraghariprasad&theme=radical&no-frame=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
+![Years](https://img.shields.io/badge/Patents-4-blueviolet?style=flat)
+![Focus](https://img.shields.io/badge/Focus-ML%20%2B%20Systems-red?style=flat)
 </div>
 
 ---
