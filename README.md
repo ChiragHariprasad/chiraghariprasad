@@ -85,10 +85,6 @@ I gravitate toward problems that sit at the intersection of ML, systems design, 
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=chiraghariprasad&show_icons=true&locale=en&layout=compact&theme=radical)
-
-![Streak](https://streak-stats.demolab.com/?user=chiraghariprasad&theme=radical)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chiraghariprasad&theme=radical)
 
 ![Years](https://img.shields.io/badge/Patents-4-blueviolet?style=flat)
