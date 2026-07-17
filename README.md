@@ -16,12 +16,12 @@
 
 I'm a 6th-semester AI/ML Engineering student at **RV College of Engineering, Bengaluru**, simultaneously interning on the **Strategy Team at IIFL Samasta Finance Ltd.**, where I've solo-built multiple production systems from scratch.
 
-I gravitate toward problems that sit at the intersection of ML, systems design, and real-world constraints — where the gap between prototype and production actually matters.
+I gravitate toward problems that sit at the intersection of ML, systems design, and real-world constraints  where the gap between prototype and production actually matters.
 
 - 🏭 **In Production**: KYC fraud detection · meeting intelligence pipeline · lifestyle index scoring
 - 🔬 **Research**: Aspect-based sentiment analysis (Mamba2 vs. BERT/RoBERTa) · pathfinding algorithm benchmarking
 - 📜 **IP**: 1 published patent (V.E.C.T.O.R) · 3 filed in 2025 (O.R.I.O.N, G.E.N.E.S.I.S, PresntAI)
-- 🤖 **Personal**: Building Jarvis — a self-evolving knowledge system (RAG + knowledge graphs + LoRA)
+- 🤖 **Personal**: Building Jarvis  a self-evolving knowledge system (RAG + knowledge graphs + LoRA)
 
 ---
 
@@ -72,12 +72,12 @@ I gravitate toward problems that sit at the intersection of ML, systems design, 
 
 ## Research & Patents
 
-- 📄 **V.E.C.T.O.R** — Published patent on real-time fraud detection using unsupervised clustering + streaming architecture
-- 📝 **O.R.I.O.N** — Filed 2025
-- 📝 **G.E.N.E.S.I.S** — Filed 2025
-- 📝 **PresntAI** — Filed 2025
-- 🧪 **NLP Research** — Comparing SSM (Mamba2) vs. transformer architectures (BERT, RoBERTa) for aspect-based sentiment analysis on SemEval 2014 benchmarks + novel RVCE student feedback dataset *(targeting journal submission)*
-- 📊 **Pathfinding Benchmark** — Comprehensive simulation of 35 algorithms across 6 map types; publication-quality paper produced from results
+- 📄 **V.E.C.T.O.R**  Published patent on real-time fraud detection using unsupervised clustering + streaming architecture
+- 📝 **O.R.I.O.N**  Filed 2025
+- 📝 **G.E.N.E.S.I.S**  Filed 2025
+- 📝 **PresntAI**  Filed 2025
+- 🧪 **NLP Research**  Comparing SSM (Mamba2) vs. transformer architectures (BERT, RoBERTa) for aspect-based sentiment analysis on SemEval 2014 benchmarks + novel RVCE student feedback dataset *(targeting journal submission)*
+- 📊 **Pathfinding Benchmark**  Comprehensive simulation of 35 algorithms across 6 map types; publication-quality paper produced from results
 
 ---
 
@@ -95,6 +95,6 @@ I gravitate toward problems that sit at the intersection of ML, systems design, 
 
 <div align="center">
 
-*Building systems that hold up under scrutiny — in production, in research, and on paper.*
+*Building systems that hold up under scrutiny  in production, in research, and on paper.*
 
 </div>
