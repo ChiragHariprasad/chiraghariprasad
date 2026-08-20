@@ -1,150 +1,188 @@
 <div align="center">
 
-# CHIRAG HARIPRASAD
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:17153B,100:00D9FF&height=220&section=header&text=CHIRAG%20HARIPRASAD&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%2FML%20%C3%97%20SYSTEMS%20%C3%97%20RESEARCH&descAlignY=58&descSize=18&animation=fadeIn"/>
 
-### `AI/ML × SYSTEMS × RESEARCH`
+<br>
 
-Building intelligent systems that escape the notebook.
+### Building intelligent systems that escape the notebook.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/chirag-hariprasad/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:chi2019rag@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=chiraghariprasad\&label=visitors\&color=111111\&style=flat-square)](https://github.com/chiraghariprasad)
+<br>
+
+<a href="https://www.linkedin.com/in/chirag-hariprasad/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:chi2019rag@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-FF4B6E?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=chiraghariprasad&label=VISITORS&color=00D9FF&style=for-the-badge"/>
 
 </div>
 
+<br>
+
 ---
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/04-ISSUED%20PATENTS-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/03%2B-PRODUCTION%20SYSTEMS-00D9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/01-IEEE%20PAPER-FF4B6E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%E2%88%9E-EXPERIMENTS-F59E0B?style=for-the-badge"/>
+
+</div>
+
+<br>
 
 ## `WHOAMI`
 
 ```text
-AI/ML Engineer
-        +
-Systems Builder
-        +
-Researcher
-        +
-Patent Inventor
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   AI/ML ENGINEER                                             │
+│                                                              │
+│   ├── Machine Learning                                      │
+│   ├── Generative AI                                         │
+│   ├── Computer Vision                                       │
+│   ├── NLP                                                   │
+│   ├── Distributed Systems                                   │
+│   └── Research                                               │
+│                                                              │
+│   I build ML systems that have to work outside the notebook. │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-I build things where **ML meets real-world constraints**.
-
-Currently working across:
-
-`Fraud Detection` · `LLMs` · `Computer Vision` · `NLP` · `RAG` · `Forecasting` · `Distributed Systems`
-
 ---
 
-## THE NUMBERS
-
-<div align="center">
-
-### 4
-
-**ISSUED PATENTS**
-
-### 3+
-
-**PRODUCTION SYSTEMS**
-
-### 1
-
-**IEEE ACCESS PAPER**
-
-### ∞
-
-**THINGS I'M CURRENTLY BREAKING**
-
-</div>
-
----
-
-## THINGS I'VE BUILT
+# `// SYSTEMS I BUILT`
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### V.E.C.T.O.R.
+<h2>V.E.C.T.O.R.</h2>
 
-**Real-Time Fraud Detection**
+<img src="https://img.shields.io/badge/REAL--TIME%20FRAUD-DETECTION-FF4B6E?style=flat-square"/>
 
-Streaming ML system for detecting anomalous financial behavior.
+<br><br>
 
-`HDBSCAN` `Isolation Forest` `XGBoost` `Redis`
+Streaming ML architecture for detecting anomalous financial behavior.
 
-**Patent — Issued**
+<br><br>
+
+`HDBSCAN` `Isolation Forest`
+`XGBoost` `Redis Streams`
+
+<br>
+
+**PATENT — ISSUED**
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### DEEP
+<h2>DEEP</h2>
 
-**DNA Environmental Exploration Pipeline**
+<img src="https://img.shields.io/badge/eDNA-BIODIVERSITY-00D9FF?style=flat-square"/>
 
-eDNA → sequence intelligence → species prediction → novelty detection.
+<br><br>
 
-`PyTorch` `Embeddings` `HTRP` `Cloud`
+DNA Environmental Exploration Pipeline for sequence intelligence, species prediction and novelty detection.
+
+<br><br>
+
+`PyTorch` `Embeddings`
+`HTRP` `Cloud Inference`
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### APE
+<h2>APE</h2>
 
-**Adaptive Pedagogy Engine**
+<img src="https://img.shields.io/badge/ADAPTIVE-PEDAGOGY-8B5CF6?style=flat-square"/>
 
-Turns student feedback into evidence-backed teaching recommendations.
+<br><br>
 
-`NLP` `Ontology` `RAG` `Recommendation`
+Evidence-driven recommendation engine that maps student feedback to pedagogical strategies.
 
-**Research**
+<br><br>
+
+`NLP` `Ontology`
+`RAG` `Recommendation`
+
+<br>
+
+**RESEARCH**
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### GENESIS
+<h2>GENESIS</h2>
 
-**Generative Urban Intelligence**
+<img src="https://img.shields.io/badge/GENERATIVE-URBAN%20INTELLIGENCE-F59E0B?style=flat-square"/>
+
+<br><br>
 
 Constraint-aware generation and simulation of urban layouts.
 
-`Generative AI` `Simulation` `Optimization`
+<br><br>
 
-**Patent — Issued**
+`Generative AI` `Optimization`
+`Simulation`
+
+<br>
+
+**PATENT — ISSUED**
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### O.R.I.O.N.
+<h2>O.R.I.O.N.</h2>
 
-**Retail Intelligence**
+<img src="https://img.shields.io/badge/RETAIL-INTELLIGENCE-3B82F6?style=flat-square"/>
 
-Forecasting, behavioral clustering and inventory intelligence.
+<br><br>
 
-`Forecasting` `Clustering` `Anomaly Detection`
+Forecasting, behavioral clustering and inventory intelligence for retail systems.
 
-**Patent — Issued**
+<br><br>
+
+`Forecasting` `Clustering`
+`Anomaly Detection`
+
+<br>
+
+**PATENT — ISSUED**
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### PresntAI
+<h2>PresntAI</h2>
 
-**Adaptive Presentation Intelligence**
+<img src="https://img.shields.io/badge/CONTEXT--AWARE-PRESENTATION%20AI-22C55E?style=flat-square"/>
 
-An intelligent presentation system designed around context and audience adaptation.
+<br><br>
 
-`LLMs` `RAG` `Generative AI`
+Adaptive presentation intelligence built around context, audience and generative AI.
 
-**Patent — Issued**
+<br><br>
+
+`LLMs` `RAG`
+`Generative AI`
+
+<br>
+
+**PATENT — ISSUED**
 
 </td>
 </tr>
@@ -152,138 +190,178 @@ An intelligent presentation system designed around context and audience adaptati
 
 ---
 
-## PRODUCTION
+# `// PRODUCTION`
 
-### IIFL SAMASTA FINANCE
+<div align="center">
 
-Built and deployed systems used in an actual fintech environment.
+<img src="https://img.shields.io/badge/IIFL%20SAMASTA%20FINANCE-PRODUCTION%20ENGINEERING-111827?style=for-the-badge"/>
+
+</div>
+
+<br>
 
 ```text
-VerifAI
-├── KYC fraud detection
-├── Document intelligence
-└── Real-time anomaly pipeline
+                         PRODUCTION
+                             │
+          ┌──────────────────┼──────────────────┐
+          │                  │                  │
+          ▼                  ▼                  ▼
 
-MeetingsAI
-├── Offline transcription
-├── Speaker recognition
-└── Automated intelligence reports
+       VERIFAI           MEETINGS AI       LIFESTYLE INDEX
 
-Lifestyle Index
-├── Automated scoring
-├── AI-assisted analysis
-└── Daily intelligence delivery
+     KYC / FRAUD          MEETINGS            SCORING
+          │                  │                  │
+          ▼                  ▼                  ▼
+     Anomaly ML          Whisper / NLP       AI Analysis
+     Streaming           Diarization        Automation
+     Document AI         Reporting           Daily Digest
 ```
 
-The interesting part isn't the model.
-
-**It's making the model survive production.**
+> The interesting part isn't training the model.
+>
+> **It's making the model survive production.**
 
 ---
 
-## RESEARCH
+# `// RESEARCH`
 
-```text
-MAMBA2  vs  BERT  vs  RoBERTa
-              │
-              ▼
-Aspect-Based Sentiment Analysis
+<div align="center">
 
-              +
+### MAMBA2  ×  BERT  ×  RoBERTa
 
-Evidence Fusion
-              │
-              ▼
-Adaptive Pedagogy Recommendation
+**Aspect-Based Sentiment Analysis**
 
-              +
+<br>
 
-35 Pathfinding Algorithms
-              │
-              ▼
-Benchmarking across 6 map structures
-```
+### 35 PATHFINDING ALGORITHMS
 
-Published research + ongoing experiments across **ML, NLP, education intelligence and algorithmic systems**.
+**6 Map Structures · Benchmarking · Performance Analysis**
 
----
+<br>
 
-## THE STACK
+### ADAPTIVE PEDAGOGY
 
-```text
-PYTHON       ████████████████████
-PYTORCH      ██████████████████
-FASTAPI      █████████████████
-SQL / NOSQL  ███████████████
-DOCKER       ███████████████
-LLMs / RAG   █████████████████
-SYSTEMS      ███████████████████
-```
+**Evidence Fusion · Ontologies · Recommendation**
 
-### AI
+</div>
 
-`PyTorch` `Scikit-Learn` `Hugging Face` `OpenCV`
+<br>
 
-### Systems
-
-`FastAPI` `Redis` `PostgreSQL` `Neo4j` `Milvus` `Qdrant` `MinIO`
-
-### Infrastructure
-
-`Docker` `Linux` `NGINX` `Celery` `Prometheus` `Grafana`
-
-### Frontend
-
-`React` `JavaScript` `Tailwind`
+<img src="https://img.shields.io/badge/IEEE%20ACCESS-PUBLISHED-8B5CF6?style=for-the-badge"/>
 
 ---
 
-## CURRENTLY BUILDING
+# `// THE STACK`
 
-### JARVIS
+<div align="center">
 
-A self-evolving personal knowledge system.
+### AI / ML
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<br><br>
+
+### SYSTEMS
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white"/>
+<img src="https://img.shields.io/badge/Milvus-00A3FF?style=for-the-badge"/>
+
+<br><br>
+
+### INFRASTRUCTURE
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+
+</div>
+
+---
+
+# `// CURRENTLY BUILDING`
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:17153B,100:8B5CF6&height=90&text=J%20A%20R%20V%20I%20S&fontSize=32&fontColor=FFFFFF&animation=fadeIn"/>
+
+### A self-evolving personal knowledge system.
+
+</div>
 
 ```text
-Documents
-   │
-   ├── RAG
-   ├── Embeddings
-   ├── Knowledge Graph
-   ├── Memory
-   └── LoRA
-        │
-        ▼
-   Personal AI
+                         ┌─────────────┐
+                         │   DOCUMENTS │
+                         └──────┬──────┘
+                                │
+                ┌───────────────┼───────────────┐
+                ▼               ▼               ▼
+              RAG           EMBEDDINGS      KNOWLEDGE
+                                             GRAPH
+                │               │               │
+                └───────────────┼───────────────┘
+                                │
+                                ▼
+                           ┌──────────┐
+                           │  MEMORY  │
+                           └────┬─────┘
+                                │
+                                ▼
+                           ┌──────────┐
+                           │  LoRA    │
+                           └────┬─────┘
+                                │
+                                ▼
+                         ┌──────────────┐
+                         │ PERSONAL AI  │
+                         └──────────────┘
 ```
 
-The goal:
-
-**not another chatbot.**
+**Not another chatbot.**
 
 A system that actually remembers.
 
 ---
 
-## IF YOU'RE HERE
+# `// PATENTS`
 
-You're probably interested in one of three things:
+<div align="center">
 
-**ML that works.**
+|      | Patent             | Domain                    |
+| :--: | ------------------ | ------------------------- |
+| `01` | **V.E.C.T.O.R.**   | Real-Time Fraud Detection |
+| `02` | **O.R.I.O.N.**     | Retail Intelligence       |
+| `03` | **G.E.N.E.S.I.S.** | Generative Urban Planning |
+| `04` | **PresntAI**       | Adaptive Presentation AI  |
 
-**Systems that scale.**
+</div>
 
-**Research that turns into something real.**
+---
 
-Same.
+# `// GITHUB`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=chiraghariprasad&show_icons=true&hide_border=true&bg_color=050816&title_color=00D9FF&text_color=FFFFFF&icon_color=8B5CF6&rank_icon=github"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chiraghariprasad&hide_border=true&background=050816&ring=8B5CF6&fire=FF4B6E&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=64748B"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-### BUILD → BREAK → MEASURE → REBUILD
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:17153B,100:050816&height=120&section=footer"/>
 
-<br>
+### BUILD → BREAK → MEASURE → REBUILD
 
 `github.com/chiraghariprasad`
 
