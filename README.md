@@ -6,6 +6,8 @@
 
 ### Building intelligent systems that escape the notebook.
 
+I design ML architectures that hold up under real traffic, real data, and real failure modes — not just clean benchmarks.
+
 <br>
 
 <a href="https://www.linkedin.com/in/chirag-hariprasad/">
@@ -38,9 +40,9 @@
 ## `WHOAMI`
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
+┌────────────────────────────────────────────────────────────┐
 │                                                              │
-│   AI/ML ENGINEER                                             │
+│   AI/ML ENGINEER                                            │
 │                                                              │
 │   ├── Machine Learning                                      │
 │   ├── Generative AI                                         │
@@ -49,9 +51,9 @@
 │   ├── Distributed Systems                                   │
 │   └── Research                                               │
 │                                                              │
-│   I build ML systems that have to work outside the notebook. │
+│   I build ML systems that have to work outside the notebook.│
 │                                                              │
-└──────────────────────────────────────────────────────────────┘
+└────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -68,7 +70,7 @@
 
 <br><br>
 
-Streaming ML architecture for detecting anomalous financial behavior.
+Streaming ML architecture for detecting anomalous financial behavior in real time.
 
 <br><br>
 
@@ -89,7 +91,7 @@ Streaming ML architecture for detecting anomalous financial behavior.
 
 <br><br>
 
-DNA Environmental Exploration Pipeline for sequence intelligence, species prediction and novelty detection.
+DNA Environmental Exploration Pipeline — sequence intelligence, species prediction, and novelty detection from eDNA samples.
 
 <br><br>
 
@@ -152,7 +154,7 @@ Constraint-aware generation and simulation of urban layouts.
 
 <br><br>
 
-Forecasting, behavioral clustering and inventory intelligence for retail systems.
+Forecasting, behavioral clustering, and inventory intelligence for retail systems.
 
 <br><br>
 
@@ -173,7 +175,7 @@ Forecasting, behavioral clustering and inventory intelligence for retail systems
 
 <br><br>
 
-Adaptive presentation intelligence built around context, audience and generative AI.
+Adaptive presentation intelligence that generates and restructures decks around context and audience.
 
 <br><br>
 
@@ -203,18 +205,18 @@ Adaptive presentation intelligence built around context, audience and generative
 ```text
                          PRODUCTION
                              │
-          ┌──────────────────┼──────────────────┐
-          │                  │                  │
-          ▼                  ▼                  ▼
+          ┌───────────────────┼───────────────────┐
+          │                   │                   │
+          ▼                   ▼                   ▼
 
-       VERIFAI           MEETINGS AI       LIFESTYLE INDEX
+       VERIFAI          MEETINGS AI         LIFESTYLE INDEX
 
-     KYC / FRAUD          MEETINGS            SCORING
-          │                  │                  │
-          ▼                  ▼                  ▼
-     Anomaly ML          Whisper / NLP       AI Analysis
-     Streaming           Diarization        Automation
-     Document AI         Reporting           Daily Digest
+     KYC / FRAUD          MEETINGS              SCORING
+          │                   │                   │
+          ▼                   ▼                   ▼
+     Anomaly ML          Whisper / NLP        AI Analysis
+     Streaming           Diarization          Automation
+     Document AI         Reporting            Daily Digest
 ```
 
 > The interesting part isn't training the model.
@@ -227,27 +229,26 @@ Adaptive presentation intelligence built around context, audience and generative
 
 <div align="center">
 
-### MAMBA2  ×  BERT  ×  RoBERTa
-
+### MAMBA2 × BERT × RoBERTa
 **Aspect-Based Sentiment Analysis**
 
 <br>
 
-### 35 PATHFINDING ALGORITHMS
-
-**6 Map Structures · Benchmarking · Performance Analysis**
+### 35 Pathfinding Algorithms
+**Benchmarked across 6 map structures for performance and scalability**
 
 <br>
 
-### ADAPTIVE PEDAGOGY
-
-**Evidence Fusion · Ontologies · Recommendation**
+### Adaptive Pedagogy
+**Evidence fusion, ontologies, and recommendation for personalized learning**
 
 </div>
 
 <br>
 
+<div align="center">
 <img src="https://img.shields.io/badge/IEEE%20ACCESS-PUBLISHED-8B5CF6?style=for-the-badge"/>
+</div>
 
 ---
 
@@ -256,7 +257,6 @@ Adaptive presentation intelligence built around context, audience and generative
 <div align="center">
 
 ### AI / ML
-
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
@@ -264,8 +264,7 @@ Adaptive presentation intelligence built around context, audience and generative
 
 <br><br>
 
-### SYSTEMS
-
+### Systems
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -274,8 +273,7 @@ Adaptive presentation intelligence built around context, audience and generative
 
 <br><br>
 
-### INFRASTRUCTURE
-
+### Infrastructure
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
@@ -294,17 +292,19 @@ Adaptive presentation intelligence built around context, audience and generative
 
 ### A self-evolving personal knowledge system.
 
+**Not another chatbot — a system that actually remembers.**
+
 </div>
 
 ```text
                          ┌─────────────┐
-                         │   DOCUMENTS │
+                         │  DOCUMENTS  │
                          └──────┬──────┘
                                 │
                 ┌───────────────┼───────────────┐
                 ▼               ▼               ▼
-              RAG           EMBEDDINGS      KNOWLEDGE
-                                             GRAPH
+              RAG          EMBEDDINGS       KNOWLEDGE
+                                               GRAPH
                 │               │               │
                 └───────────────┼───────────────┘
                                 │
@@ -315,7 +315,7 @@ Adaptive presentation intelligence built around context, audience and generative
                                 │
                                 ▼
                            ┌──────────┐
-                           │  LoRA    │
+                           │   LoRA   │
                            └────┬─────┘
                                 │
                                 ▼
@@ -324,22 +324,18 @@ Adaptive presentation intelligence built around context, audience and generative
                          └──────────────┘
 ```
 
-**Not another chatbot.**
-
-A system that actually remembers.
-
 ---
 
 # `// PATENTS`
 
 <div align="center">
 
-|      | Patent             | Domain                    |
-| :--: | ------------------ | ------------------------- |
-| `01` | **V.E.C.T.O.R.**   | Real-Time Fraud Detection |
-| `02` | **O.R.I.O.N.**     | Retail Intelligence       |
-| `03` | **G.E.N.E.S.I.S.** | Generative Urban Planning |
-| `04` | **PresntAI**       | Adaptive Presentation AI  |
+|      | Patent              | Domain                     |
+| :--: | -------------------- | --------------------------- |
+| `01` | **V.E.C.T.O.R.**     | Real-Time Fraud Detection   |
+| `02` | **O.R.I.O.N.**        | Retail Intelligence         |
+| `03` | **G.E.N.E.S.I.S.**   | Generative Urban Planning   |
+| `04` | **PresntAI**          | Adaptive Presentation AI    |
 
 </div>
 
