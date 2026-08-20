@@ -540,12 +540,73 @@ Daily reporting
 </div>
 
 ---
+---
 
 # GitHub Activity
 
 <div align="center">
 
-<img src="./metrics.plugin.isocalendar.fullyear.svg" width="100%" alt="Isometric GitHub contribution calendar"/>
+<img src="https://img.shields.io/badge/CONTRIBUTION%20HISTORY-7C3AED?style=for-the-badge&labelColor=161B22"/>
+
+<br><br>
+
+<img
+  src="./metrics.plugin.isocalendar.fullyear.svg"
+  width="96%"
+  alt="Isometric GitHub contribution calendar"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<img
+  src="./metrics.plugin.languages.svg"
+  width="100%"
+  alt="Most used programming languages"
+/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img
+  src="./metrics.plugin.activity.svg"
+  width="100%"
+  alt="Recent GitHub activity"
+/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+  src="./metrics.plugin.repositories.svg"
+  width="96%"
+  alt="GitHub repository overview"
+/>
+
+<br><br>
+
+<img
+  src="./metrics.plugin.achievements.svg"
+  width="70%"
+  alt="GitHub achievements"
+/>
 
 </div>
 
@@ -562,7 +623,7 @@ Daily reporting
 
 <h3>ML</h3>
 
-<img src="https://skillicons.dev/icons?i=pytorch&theme=light" width="52"/>
+<img src="https://skillicons.dev/icons?i=pytorch" width="52"/>
 
 <br><br>
 
@@ -577,7 +638,7 @@ OpenCV
 
 <h3>Backend</h3>
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs&theme=light" width="110"/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs" width="110"/>
 
 <br><br>
 
@@ -592,7 +653,7 @@ REST APIs
 
 <h3>Data</h3>
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=light" width="110"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" width="110"/>
 
 <br><br>
 
@@ -607,7 +668,7 @@ Vector Databases
 
 <h3>Infrastructure</h3>
 
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx&theme=light" width="165"/>
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx" width="165"/>
 
 <br><br>
 
