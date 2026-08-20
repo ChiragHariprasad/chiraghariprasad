@@ -353,46 +353,184 @@ Daily reporting
 <table>
 <tr>
 
-<td align="center" width="50%">
+<td width="50%" align="center" valign="top">
 
-<h3>Patents</h3>
-
-<b>V.E.C.T.O.R.</b><br>
-Real-time fraud intelligence
+<img src="https://img.shields.io/badge/INTELLECTUAL%20PROPERTY-7C3AED?style=for-the-badge&labelColor=161B22"/>
 
 <br><br>
 
-<b>O.R.I.O.N.</b><br>
-Retail intelligence
+<table>
+<tr>
+<td align="center" width="90">
 
-<br><br>
+<img src="https://img.shields.io/badge/01-7C3AED?style=for-the-badge"/>
 
-<b>G.E.N.E.S.I.S.</b><br>
-Generative urban intelligence
+</td>
+<td align="left">
 
-<br><br>
+<b>V.E.C.T.O.R.</b><br> <sub>Real-time fraud intelligence</sub>
 
-<b>PresntAI</b><br>
-Adaptive presentation intelligence
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/02-00B8D9?style=for-the-badge"/>
+
+</td>
+<td align="left">
+
+<b>O.R.I.O.N.</b><br> <sub>Retail intelligence and ordering</sub>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/03-F59E0B?style=for-the-badge"/>
+
+</td>
+<td align="left">
+
+<b>G.E.N.E.S.I.S.</b><br> <sub>Generative urban intelligence</sub>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/04-EC4899?style=for-the-badge"/>
+
+</td>
+<td align="left">
+
+<b>PresntAI</b><br> <sub>Adaptive presentation intelligence</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/4%20ISSUED%20PATENTS-161B22?style=for-the-badge&logo=academia&logoColor=white"/>
 
 </td>
 
-<td align="center" width="50%">
+<td width="50%" align="center" valign="top">
 
-<h3>Research</h3>
-
-<b>IEEE Access</b><br>
-Data-driven policy analysis of engineering education
+<img src="https://img.shields.io/badge/RESEARCH-00B8D9?style=for-the-badge&labelColor=161B22"/>
 
 <br><br>
 
-<b>Mamba2 × BERT × RoBERTa</b><br>
-Aspect-based sentiment analysis
+<table>
+<tr>
+<td align="center" width="90">
+
+<img src="https://img.shields.io/badge/01-F59E0B?style=for-the-badge"/>
+
+</td>
+<td align="left">
+
+<b>IEEE Access</b><br> <sub>Data-driven policy analysis of engineering education</sub>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/02-00B8D9?style=for-the-badge"/>
+
+</td>
+<td align="left">
+
+<b>Mamba2 × BERT × RoBERTa</b><br> <sub>Aspect-based sentiment analysis</sub>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/03-7C3AED?style=for-the-badge"/>
+
+</td>
+<td align="left">
+
+<b>35 Algorithms × 6 Map Types</b><br> <sub>Pathfinding performance benchmark</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/IEEE%20ACCESS-PUBLISHED-161B22?style=for-the-badge&logo=ieee&logoColor=white"/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# GitHub Activity
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/GITHUB%20ACTIVITY-7C3AED?style=for-the-badge&labelColor=161B22"/>
 
 <br><br>
 
-<b>35 Algorithms × 6 Map Types</b><br>
-Pathfinding performance benchmark
+<img src="./metrics.plugin.isocalendar.fullyear.svg" width="96%" alt="Isometric GitHub contribution calendar"/>
+
+<br><br>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/CONTRIBUTIONS-00B8D9?style=for-the-badge&labelColor=161B22"/>
+
+<br><br>
+
+<b>Live commit history</b>
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/STREAK-7C3AED?style=for-the-badge&labelColor=161B22"/>
+
+<br><br>
+
+<b>Consistency over time</b>
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/ACTIVITY-EC4899?style=for-the-badge&labelColor=161B22"/>
+
+<br><br>
+
+<b>Current engineering velocity</b>
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/OPEN%20SOURCE-F59E0B?style=for-the-badge&labelColor=161B22"/>
+
+<br><br>
+
+<b>Public engineering footprint</b>
 
 </td>
 
