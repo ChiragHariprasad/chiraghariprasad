@@ -1,7 +1,10 @@
 <div align="center">
 
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=45&pause=2500&color=bd2c00&center=true&vCenter=true&width=700&height=70&lines=CHIRAG+HARIPRASAD" alt="Chirag Hariprasad"/>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=45&pause=2500&color=7C3AED&center=true&vCenter=true&width=700&height=70&lines=CHIRAG+HARIPRASAD"
+    alt="Chirag Hariprasad"
+  />
 </h1>
 
 <h3>AI/ML Engineer · Systems Builder · Patent Inventor</h3>
@@ -9,18 +12,23 @@
 <br>
 
 <a href="https://chiraghariprasad.qzz.io">
-<img src="https://img.shields.io/badge/Portfolio-bd2c00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/chiraghariprasad/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+&nbsp;
 <a href="mailto:chi2019rag@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=chiraghariprasad&label=PROFILE%20VIEWS&color=bd2c00&style=for-the-badge" alt="Profile views"/>
+<img
+src="https://komarev.com/ghpvc/?username=chiraghariprasad&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"
+alt="Profile views"
+/>
 
 </div>
 
@@ -28,24 +36,27 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/19%2B-PROJECTS-bd2c00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/19%2B-PROJECTS-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/04-PATENTS-00B8D9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/01-IEEE%20PUBLICATION-F59E0B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI%20%2B%20SYSTEMS-EC4899?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=3500&pause=1200&color=f5f5f5&center=true&vCenter=true&width=850&height=55&lines=Building+systems+that+think%2C+predict%2C+and+scale.;From+research+prototype+to+production+system.;The+model+is+only+half+the+problem." alt="Intro"/>
+<img
+src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=850&height=55&lines=Building+systems+that+think%2C+predict%2C+and+scale.;From+research+prototype+to+production+system.;The+model+is+only+half+the+problem."
+alt="Engineering focus"
+/>
 
 </div>
 
 ---
 
-## Engineering Focus
+# Engineering Focus
 
 <div align="center">
 
-<table>
+<table align="center">
 <tr>
 
 <td align="center" width="25%">
@@ -111,7 +122,7 @@ Open Source
 
 <div align="center">
 
-<table>
+<table align="center">
 <tr>
 
 <td align="center" width="33%">
@@ -122,7 +133,7 @@ Real-time fraud detection using behavioral profiling, clustering and anomaly det
 
 <br><br>
 
-<img src="https://img.shields.io/badge/ML-bd2c00?style=flat-square"/>
+<img src="https://img.shields.io/badge/ML-7C3AED?style=flat-square"/>
 <img src="https://img.shields.io/badge/Streaming-00B8D9?style=flat-square"/>
 <img src="https://img.shields.io/badge/Fraud-EC4899?style=flat-square"/>
 
@@ -142,7 +153,7 @@ Adaptive pedagogy recommendation using evidence fusion, NLP and ontology-driven 
 
 <br><br>
 
-<img src="https://img.shields.io/badge/NLP-bd2c00?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-7C3AED?style=flat-square"/>
 <img src="https://img.shields.io/badge/RAG-00B8D9?style=flat-square"/>
 <img src="https://img.shields.io/badge/Research-F59E0B?style=flat-square"/>
 
@@ -162,7 +173,7 @@ On-premise meeting intelligence with transcription, speaker recognition and auto
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Whisper-bd2c00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Whisper-7C3AED?style=flat-square"/>
 <img src="https://img.shields.io/badge/FastAPI-00B8D9?style=flat-square"/>
 <img src="https://img.shields.io/badge/AI-EC4899?style=flat-square"/>
 
@@ -178,7 +189,7 @@ On-premise meeting intelligence with transcription, speaker recognition and auto
 
 <tr>
 
-<td align="center">
+<td align="center" width="33%">
 
 <h3>O.R.I.O.N.</h3>
 
@@ -187,7 +198,7 @@ Retail intelligence combining forecasting, behavioral clustering and replenishme
 <br><br>
 
 <img src="https://img.shields.io/badge/Forecasting-F59E0B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Clustering-bd2c00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Clustering-7C3AED?style=flat-square"/>
 <img src="https://img.shields.io/badge/Retail-00B8D9?style=flat-square"/>
 
 <br><br>
@@ -198,7 +209,7 @@ Retail intelligence combining forecasting, behavioral clustering and replenishme
 
 </td>
 
-<td align="center">
+<td align="center" width="33%">
 
 <h3>HTRP</h3>
 
@@ -207,7 +218,7 @@ Sequence indexing and environmental DNA intelligence for biodiversity analysis.
 <br><br>
 
 <img src="https://img.shields.io/badge/eDNA-00B8D9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Pipeline-bd2c00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pipeline-7C3AED?style=flat-square"/>
 <img src="https://img.shields.io/badge/Research-F59E0B?style=flat-square"/>
 
 <br><br>
@@ -218,7 +229,7 @@ Sequence indexing and environmental DNA intelligence for biodiversity analysis.
 
 </td>
 
-<td align="center">
+<td align="center" width="33%">
 
 <h3>SENTINEL</h3>
 
@@ -228,7 +239,7 @@ Vendor risk intelligence platform combining deterministic rules and similarity-b
 
 <img src="https://img.shields.io/badge/Risk-EC4899?style=flat-square"/>
 <img src="https://img.shields.io/badge/Backend-00B8D9?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI-bd2c00?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI-7C3AED?style=flat-square"/>
 
 <br><br>
 
@@ -251,13 +262,15 @@ Vendor risk intelligence platform combining deterministic rules and similarity-b
 
 <h3>IIFL SAMASTA FINANCE</h3>
 
-<img src="https://img.shields.io/badge/VERIFAI-REAL--TIME%20FRAUD-bd2c00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VERIFAI-REAL--TIME%20FRAUD-7C3AED?style=for-the-badge"/>
+&nbsp;
 <img src="https://img.shields.io/badge/MEETINGS%20AI-ON--PREMISE%20INTELLIGENCE-00B8D9?style=for-the-badge"/>
+&nbsp;
 <img src="https://img.shields.io/badge/LIFESTYLE%20INDEX-AUTOMATED%20SCORING-EC4899?style=for-the-badge"/>
 
 <br><br>
 
-<table>
+<table align="center">
 <tr>
 
 <td align="center" width="33%">
@@ -268,7 +281,7 @@ KYC document intelligence<br>
 Real-time anomaly detection<br>
 Streaming fraud pipeline
 
-<br>
+<br><br>
 
 <code>UMAP</code> <code>HDBSCAN</code> <code>XGBoost</code> <code>Redis</code>
 
@@ -282,7 +295,7 @@ On-premise transcription<br>
 Speaker diarization<br>
 Automated intelligence reports
 
-<br>
+<br><br>
 
 <code>FastAPI</code> <code>Whisper</code> <code>Speaker AI</code>
 
@@ -296,7 +309,7 @@ Automated scoring<br>
 AI-assisted analysis<br>
 Daily reporting
 
-<br>
+<br><br>
 
 <code>FastAPI</code> <code>SQLite</code> <code>Gemini</code>
 
@@ -350,7 +363,7 @@ Daily reporting
 
 <div align="center">
 
-<table>
+<table align="center">
 <tr>
 
 <td width="50%" align="center" valign="top">
@@ -359,63 +372,53 @@ Daily reporting
 
 <br><br>
 
-<table>
-<tr>
-<td align="center" width="90">
+<table align="center">
 
+<tr>
+<td align="center" width="80">
 <img src="https://img.shields.io/badge/01-7C3AED?style=for-the-badge"/>
-
 </td>
 <td align="left">
-
-<b>V.E.C.T.O.R.</b><br> <sub>Real-time fraud intelligence</sub>
-
+<b>V.E.C.T.O.R.</b><br>
+<sub>Real-time fraud intelligence</sub>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-
 <img src="https://img.shields.io/badge/02-00B8D9?style=for-the-badge"/>
-
 </td>
 <td align="left">
-
-<b>O.R.I.O.N.</b><br> <sub>Retail intelligence and ordering</sub>
-
+<b>O.R.I.O.N.</b><br>
+<sub>Retail intelligence and ordering</sub>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-
 <img src="https://img.shields.io/badge/03-F59E0B?style=for-the-badge"/>
-
 </td>
 <td align="left">
-
-<b>G.E.N.E.S.I.S.</b><br> <sub>Generative urban intelligence</sub>
-
+<b>G.E.N.E.S.I.S.</b><br>
+<sub>Generative urban intelligence</sub>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-
 <img src="https://img.shields.io/badge/04-EC4899?style=for-the-badge"/>
-
 </td>
 <td align="left">
-
-<b>PresntAI</b><br> <sub>Adaptive presentation intelligence</sub>
-
+<b>PresntAI</b><br>
+<sub>Adaptive presentation intelligence</sub>
 </td>
 </tr>
+
 </table>
 
 <br>
 
-<img src="https://img.shields.io/badge/4%20ISSUED%20PATENTS-161B22?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/4%20ISSUED%20PATENTS-161B22?style=for-the-badge"/>
 
 </td>
 
@@ -425,45 +428,38 @@ Daily reporting
 
 <br><br>
 
-<table>
-<tr>
-<td align="center" width="90">
+<table align="center">
 
+<tr>
+<td align="center" width="80">
 <img src="https://img.shields.io/badge/01-F59E0B?style=for-the-badge"/>
-
 </td>
 <td align="left">
-
-<b>IEEE Access</b><br> <sub>Data-driven policy analysis of engineering education</sub>
-
+<b>IEEE Access</b><br>
+<sub>Data-driven policy analysis of engineering education</sub>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-
 <img src="https://img.shields.io/badge/02-00B8D9?style=for-the-badge"/>
-
 </td>
 <td align="left">
-
-<b>Mamba2 × BERT × RoBERTa</b><br> <sub>Aspect-based sentiment analysis</sub>
-
+<b>Mamba2 × BERT × RoBERTa</b><br>
+<sub>Aspect-based sentiment analysis</sub>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-
 <img src="https://img.shields.io/badge/03-7C3AED?style=for-the-badge"/>
-
 </td>
 <td align="left">
-
-<b>35 Algorithms × 6 Map Types</b><br> <sub>Pathfinding performance benchmark</sub>
-
+<b>35 Algorithms × 6 Map Types</b><br>
+<sub>Pathfinding performance benchmark</sub>
 </td>
 </tr>
+
 </table>
 
 <br>
@@ -483,129 +479,51 @@ Daily reporting
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/GITHUB%20ACTIVITY-7C3AED?style=for-the-badge&labelColor=161B22"/>
-
-<br><br>
-
-<img src="./metrics.plugin.isocalendar.fullyear.svg" width="96%" alt="Isometric GitHub contribution calendar"/>
-
-<br><br>
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-<img src="https://img.shields.io/badge/CONTRIBUTIONS-00B8D9?style=for-the-badge&labelColor=161B22"/>
-
-<br><br>
-
-<b>Live commit history</b>
-
-</td>
-
-<td align="center" width="25%">
-
-<img src="https://img.shields.io/badge/STREAK-7C3AED?style=for-the-badge&labelColor=161B22"/>
-
-<br><br>
-
-<b>Consistency over time</b>
-
-</td>
-
-<td align="center" width="25%">
-
-<img src="https://img.shields.io/badge/ACTIVITY-EC4899?style=for-the-badge&labelColor=161B22"/>
-
-<br><br>
-
-<b>Current engineering velocity</b>
-
-</td>
-
-<td align="center" width="25%">
-
-<img src="https://img.shields.io/badge/OPEN%20SOURCE-F59E0B?style=for-the-badge&labelColor=161B22"/>
-
-<br><br>
-
-<b>Public engineering footprint</b>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-# GitHub Activity
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/CONTRIBUTION%20HISTORY-7C3AED?style=for-the-badge&labelColor=161B22"/>
-
-<br><br>
-
 <img
-  src="./metrics.plugin.isocalendar.fullyear.svg"
-  width="96%"
-  alt="Isometric GitHub contribution calendar"
+src="./metrics.plugin.isocalendar.fullyear.svg"
+width="96%"
+alt="Isometric GitHub contribution calendar"
 />
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<table>
+<table align="center">
 <tr>
 
 <td width="50%" align="center">
 
 <img
-  src="./metrics.plugin.languages.svg"
-  width="100%"
-  alt="Most used programming languages"
+src="./metrics.plugin.languages.svg"
+width="100%"
+alt="Most used programming languages"
 />
 
 </td>
 
 <td width="50%" align="center">
 
+<a href="https://github.com/ChiragHariprasad?tab=repositories">
 <img
-  src="./metrics.plugin.activity.svg"
-  width="100%"
-  alt="Recent GitHub activity"
+  src="https://img.shields.io/badge/BROWSE%20ALL%20REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=white"
+  alt="Browse all repositories"
 />
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/19%2B-PUBLIC%20PROJECTS-7C3AED?style=for-the-badge"/>
+
+<br><br>
+
+<sub>
+Explore the complete repository portfolio, experiments,
+research work and engineering projects.
+</sub>
 
 </td>
 
 </tr>
 </table>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-  src="./metrics.plugin.repositories.svg"
-  width="96%"
-  alt="GitHub repository overview"
-/>
-
-<br><br>
-
-<img
-  src="./metrics.plugin.achievements.svg"
-  width="70%"
-  alt="GitHub achievements"
-/>
 
 </div>
 
@@ -615,7 +533,7 @@ Daily reporting
 
 <div align="center">
 
-<table>
+<table align="center">
 <tr>
 
 <td align="center" width="25%">
@@ -692,12 +610,20 @@ Monitoring
 <br>
 
 <a href="https://chiraghariprasad.qzz.io">
-<img src="https://img.shields.io/badge/EXPLORE%20THE%20PORTFOLIO-bd2c00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EXPLORE%20THE%20PORTFOLIO-7C3AED?style=for-the-badge"/>
 </a>
+
+ 
 
 <a href="https://www.linkedin.com/in/chiraghariprasad/">
 <img src="https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge"/>
 </a>
 
+<br><br>
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:161B22,100:0D1117&height=120&section=footer"
+alt=""
+/>
 
 </div>
