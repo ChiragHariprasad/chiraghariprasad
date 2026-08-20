@@ -35,7 +35,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=850&height=55&lines=Building+systems+that+think%2C+predict%2C+and+scale.;From+research+prototype+to+production+system.;The+model+is+only+half+the+problem." alt="Intro"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=3500&pause=1200&color=f5f5f5&center=true&vCenter=true&width=850&height=55&lines=Building+systems+that+think%2C+predict%2C+and+scale.;From+research+prototype+to+production+system.;The+model+is+only+half+the+problem." alt="Intro"/>
 
 </div>
 
@@ -501,8 +501,5 @@ Monitoring
 <img src="https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge"/>
 </a>
 
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bd2c00,50:161B22,100:0D1117&height=120&section=footer"/>
 
 </div>
