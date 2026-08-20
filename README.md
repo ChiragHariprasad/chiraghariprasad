@@ -540,7 +540,6 @@ Daily reporting
 </div>
 
 ---
----
 
 # GitHub Activity
 
