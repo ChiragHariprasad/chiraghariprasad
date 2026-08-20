@@ -506,8 +506,3 @@ Monitoring
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:161B22,100:0D1117&height=120&section=footer"/>
 
 </div>
-```
-
-The key change is that **Featured Repositories and Engineering Footprint no longer depend on generated card images**, so the broken-image problem in your screenshots goes away. All tables are explicitly centered with `<div align="center">` and centered `<td>` cells.
-
-The Metrics calendar remains a generated SVG, because that is exactly what the Metrics workflow is designed to produce; your README simply displays the resulting local file.
