@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=45&pause=2500&color=7C3AED&center=true&vCenter=true&width=700&height=70&lines=CHIRAG+HARIPRASAD" alt="Chirag Hariprasad"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=45&pause=2500&color=bd2c00&center=true&vCenter=true&width=700&height=70&lines=CHIRAG+HARIPRASAD" alt="Chirag Hariprasad"/>
 </h1>
 
 <h3>AI/ML Engineer · Systems Builder · Patent Inventor</h3>
@@ -9,7 +9,7 @@
 <br>
 
 <a href="https://chiraghariprasad.qzz.io">
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-bd2c00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/chiraghariprasad/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -20,7 +20,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=chiraghariprasad&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=chiraghariprasad&label=PROFILE%20VIEWS&color=bd2c00&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
@@ -28,7 +28,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/19%2B-PROJECTS-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/19%2B-PROJECTS-bd2c00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/04-PATENTS-00B8D9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/01-IEEE%20PUBLICATION-F59E0B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI%20%2B%20SYSTEMS-EC4899?style=for-the-badge"/>
@@ -122,7 +122,7 @@ Real-time fraud detection using behavioral profiling, clustering and anomaly det
 
 <br><br>
 
-<img src="https://img.shields.io/badge/ML-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/ML-bd2c00?style=flat-square"/>
 <img src="https://img.shields.io/badge/Streaming-00B8D9?style=flat-square"/>
 <img src="https://img.shields.io/badge/Fraud-EC4899?style=flat-square"/>
 
@@ -142,7 +142,7 @@ Adaptive pedagogy recommendation using evidence fusion, NLP and ontology-driven 
 
 <br><br>
 
-<img src="https://img.shields.io/badge/NLP-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-bd2c00?style=flat-square"/>
 <img src="https://img.shields.io/badge/RAG-00B8D9?style=flat-square"/>
 <img src="https://img.shields.io/badge/Research-F59E0B?style=flat-square"/>
 
@@ -162,7 +162,7 @@ On-premise meeting intelligence with transcription, speaker recognition and auto
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Whisper-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Whisper-bd2c00?style=flat-square"/>
 <img src="https://img.shields.io/badge/FastAPI-00B8D9?style=flat-square"/>
 <img src="https://img.shields.io/badge/AI-EC4899?style=flat-square"/>
 
@@ -187,7 +187,7 @@ Retail intelligence combining forecasting, behavioral clustering and replenishme
 <br><br>
 
 <img src="https://img.shields.io/badge/Forecasting-F59E0B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Clustering-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Clustering-bd2c00?style=flat-square"/>
 <img src="https://img.shields.io/badge/Retail-00B8D9?style=flat-square"/>
 
 <br><br>
@@ -207,7 +207,7 @@ Sequence indexing and environmental DNA intelligence for biodiversity analysis.
 <br><br>
 
 <img src="https://img.shields.io/badge/eDNA-00B8D9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Pipeline-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pipeline-bd2c00?style=flat-square"/>
 <img src="https://img.shields.io/badge/Research-F59E0B?style=flat-square"/>
 
 <br><br>
@@ -228,7 +228,7 @@ Vendor risk intelligence platform combining deterministic rules and similarity-b
 
 <img src="https://img.shields.io/badge/Risk-EC4899?style=flat-square"/>
 <img src="https://img.shields.io/badge/Backend-00B8D9?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI-bd2c00?style=flat-square"/>
 
 <br><br>
 
@@ -251,7 +251,7 @@ Vendor risk intelligence platform combining deterministic rules and similarity-b
 
 <h3>IIFL SAMASTA FINANCE</h3>
 
-<img src="https://img.shields.io/badge/VERIFAI-REAL--TIME%20FRAUD-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VERIFAI-REAL--TIME%20FRAUD-bd2c00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MEETINGS%20AI-ON--PREMISE%20INTELLIGENCE-00B8D9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LIFESTYLE%20INDEX-AUTOMATED%20SCORING-EC4899?style=for-the-badge"/>
 
@@ -494,7 +494,7 @@ Monitoring
 <br>
 
 <a href="https://chiraghariprasad.qzz.io">
-<img src="https://img.shields.io/badge/EXPLORE%20THE%20PORTFOLIO-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EXPLORE%20THE%20PORTFOLIO-bd2c00?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/chiraghariprasad/">
@@ -503,6 +503,6 @@ Monitoring
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:161B22,100:0D1117&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bd2c00,50:161B22,100:0D1117&height=120&section=footer"/>
 
 </div>
